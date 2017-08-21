@@ -13,7 +13,6 @@
     ],
     "require": {
         "yiisoft/yii2": "2.*",
-        "bower-asset/bootstrap-social": "~4.0"
     },
     "autoload": {
         "psr-4": {
