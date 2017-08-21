@@ -1,0 +1,22 @@
+{
+    "name": "ravisunshine/yii2-easy-social-share",
+    "description": "Easy Social Share is designed to share link on social media giants i.e. Facebook, Twitter, Linkendin, etc.",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension","social","share","widget"," easy share"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ravi Verma Sunshine",
+            "email": "ravivermashine@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+        "bower-asset/bootstrap-social": "~4.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "ravisunshine\\easysocialshare\\": ""
+        }
+    }
+}
