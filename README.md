@@ -1,6 +1,6 @@
 Yii2 Easy Social Share
 ======================
-Easy Social Share is designed to share link on social media i.e. Facebook, Twitter, Linkendin, etc.
+Easy Social Share is designed to share link with custom messages on social media i.e. Facebook, Twitter, Linkendin, etc.
 
 Installation
 ------------

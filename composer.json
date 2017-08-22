@@ -1,6 +1,6 @@
 {
     "name": "ravisunshine/yii2-easy-social-share",
-    "description": "Easy Social Share is designed to share link on social media i.e. Facebook, Twitter, Linkendin, etc.",
+    "description": "Easy Social Share is designed to share link with custom messages on social media i.e. Facebook, Twitter, Linkendin, etc.",
     "type": "yii2-extension",
     "minimum-stability": "dev",
     "keywords": ["yii2","extension","social","share","widget"," easy share"],
@@ -13,7 +13,7 @@
     ],
     "require": {
         "yiisoft/yii2": "2.*",
-        "bower-asset/bootstrap-social": "~4.0"
+        "bower-asset/bootstrap-social": "*"
     },
     "autoload": {
         "psr-4": {
