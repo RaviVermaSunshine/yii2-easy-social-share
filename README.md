@@ -1,6 +1,6 @@
 Yii2 Easy Social Share
 ======================
-Easy Social Share is designed to share link on social media giants i.e. Facebook, Twitter, Linkendin, etc.
+Easy Social Share is designed to share link on social media i.e. Facebook, Twitter, Linkendin, etc.
 
 Installation
 ------------
@@ -28,4 +28,4 @@ Usage
 Once the extension is installed, simply use it in your code by  :
 
 ```php
-<?= \ravisunshine\easysocialshare\AutoloadExample::widget(); ?>```
+<?= \ravisunshine\easysocialshare\EasyShare::widget(); ?>```
